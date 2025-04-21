@@ -377,14 +377,26 @@
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-11" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;Flatten&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-12" target="VuiE1Bc5QpYyyfsSv3rZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;[输入图像&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-13" target="VuiE1Bc5QpYyyfsSv3rZ-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-13" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;输入序列&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-14" target="VuiE1Bc5QpYyyfsSv3rZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-14" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;CNN&lt;/span&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-15" target="VuiE1Bc5QpYyyfsSv3rZ-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-15" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;LSTM&lt;/span&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
