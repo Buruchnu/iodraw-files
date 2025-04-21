@@ -318,7 +318,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="20" y="550" width="630" height="130" as="geometry" />
+          <mxGeometry x="25" width="630" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-1" target="VuiE1Bc5QpYyyfsSv3rZ-2">
           <mxGeometry relative="1" as="geometry" />
@@ -430,6 +430,9 @@
         </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-20" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;[分类输出&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
