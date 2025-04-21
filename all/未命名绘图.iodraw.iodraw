@@ -160,6 +160,9 @@
         <mxCell id="Yst-eAF0CU3NPxEHiB24-6" value="评估模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Yst-eAF0CU3NPxEHiB24-7" value="保存结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
