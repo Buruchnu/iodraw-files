@@ -440,6 +440,9 @@
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-41" value="LSTM模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="38.75" y="170" width="951.25" height="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
