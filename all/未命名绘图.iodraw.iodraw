@@ -338,20 +338,38 @@
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-4" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;Last&lt;/span&gt; &lt;span style=&quot;color: #a22889;&quot;&gt;Step&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-5" target="VuiE1Bc5QpYyyfsSv3rZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-5" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;Conv1&lt;/span&gt; 3&lt;span style=&quot;color: #a22889;&quot;&gt;x3&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-6" target="VuiE1Bc5QpYyyfsSv3rZ-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(162, 40, 137);&quot;&gt;ReLU&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-7" target="VuiE1Bc5QpYyyfsSv3rZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-7" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;MaxPool&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-8" target="VuiE1Bc5QpYyyfsSv3rZ-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-8" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;Conv2&lt;/span&gt; 3&lt;span style=&quot;color: #a22889;&quot;&gt;x3&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-9" target="VuiE1Bc5QpYyyfsSv3rZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-9" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;MaxPool&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-10" target="VuiE1Bc5QpYyyfsSv3rZ-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-10" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;ReLU&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
