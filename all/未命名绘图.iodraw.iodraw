@@ -214,7 +214,7 @@
         <mxCell id="Yst-eAF0CU3NPxEHiB24-19" value="划分数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yst-eAF0CU3NPxEHiB24-25" value="初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yst-eAF0CU3NPxEHiB24-25" value="初始化优化器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
