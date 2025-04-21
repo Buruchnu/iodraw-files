@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LQzFulQaliAGnG8X0EK8" name="第 4 页">
-    <mxGraphModel dx="2367" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -442,9 +442,6 @@
         </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-41" value="LSTM模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VuiE1Bc5QpYyyfsSv3rZ-42" target="VuiE1Bc5QpYyyfsSv3rZ-42">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
