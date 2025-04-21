@@ -371,10 +371,10 @@
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-18" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;特征融合&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-19" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;全连接层&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-20" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;[分类输出&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
