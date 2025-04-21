@@ -220,6 +220,9 @@
         <mxCell id="Yst-eAF0CU3NPxEHiB24-26" value="训练循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Yst-eAF0CU3NPxEHiB24-27" value="验证循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
