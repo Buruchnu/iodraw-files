@@ -267,7 +267,7 @@
         <mxCell id="q_-zIuN5ID76kZ7JMEbL-6" value="包大小统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q_-zIuN5ID76kZ7JMEbL-7" value="时间间隔统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q_-zIuN5ID76kZ7JMEbL-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
