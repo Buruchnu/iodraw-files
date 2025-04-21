@@ -359,7 +359,7 @@
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-14" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;CNN&lt;/span&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-15" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;LSTM&lt;/span&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
