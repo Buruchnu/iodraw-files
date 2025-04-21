@@ -437,8 +437,8 @@
         <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-39" value="CNN模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="VuiE1Bc5QpYyyfsSv3rZ-41" value="LSTM模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
