@@ -235,8 +235,8 @@
         <mxCell id="Yst-eAF0CU3NPxEHiB24-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yst-eAF0CU3NPxEHiB24-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="Yst-eAF0CU3NPxEHiB24-36" value="数据准备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
