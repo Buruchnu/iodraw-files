@@ -169,9 +169,6 @@
         <mxCell id="Yst-eAF0CU3NPxEHiB24-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yst-eAF0CU3NPxEHiB24-5" target="Yst-eAF0CU3NPxEHiB24-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yst-eAF0CU3NPxEHiB24-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yst-eAF0CU3NPxEHiB24-5" target="Yst-eAF0CU3NPxEHiB24-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Yst-eAF0CU3NPxEHiB24-5" value="训练模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="470" width="120" height="60" as="geometry" />
         </mxCell>
@@ -215,22 +212,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yst-eAF0CU3NPxEHiB24-25" value="初始化优化器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yst-eAF0CU3NPxEHiB24-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yst-eAF0CU3NPxEHiB24-26" target="Yst-eAF0CU3NPxEHiB24-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yst-eAF0CU3NPxEHiB24-26" value="训练循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yst-eAF0CU3NPxEHiB24-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yst-eAF0CU3NPxEHiB24-27" target="Yst-eAF0CU3NPxEHiB24-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yst-eAF0CU3NPxEHiB24-27" value="验证循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yst-eAF0CU3NPxEHiB24-28" value="早停判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
