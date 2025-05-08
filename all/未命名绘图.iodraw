@@ -757,22 +757,22 @@
           <mxGeometry x="100" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3BZOD1-wDWsP7hmBGxtg-7" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="100" width="70" height="30" as="geometry" />
+          <mxGeometry x="600" y="100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3BZOD1-wDWsP7hmBGxtg-8" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="140" width="70" height="30" as="geometry" />
+          <mxGeometry x="600" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3BZOD1-wDWsP7hmBGxtg-9" value="应用协议头部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="500" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3BZOD1-wDWsP7hmBGxtg-10" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="180" width="70" height="30" as="geometry" />
+          <mxGeometry x="600" y="180" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3BZOD1-wDWsP7hmBGxtg-11" value="应用协议头部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="180" width="100" height="30" as="geometry" />
+          <mxGeometry x="500" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3BZOD1-wDWsP7hmBGxtg-12" value="TCP头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="180" width="70" height="30" as="geometry" />
+          <mxGeometry x="430" y="180" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
