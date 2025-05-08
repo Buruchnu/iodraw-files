@@ -601,7 +601,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Gk9dOYAWKsZSh0C1D1uQ" name="第 7 页">
-    <mxGraphModel dx="658" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1196" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,7 +630,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v-7VzoOLCxn6Np4zBtjq-9" value="" style="shape=mxgraph.cisco.routers.gigabit_switch_atm_tag_router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="230" width="78" height="78" as="geometry" />
+          <mxGeometry x="257.5" y="240" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="v-7VzoOLCxn6Np4zBtjq-10" value="" style="shape=mxgraph.cisco.routers.gigabit_switch_atm_tag_router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="480" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
