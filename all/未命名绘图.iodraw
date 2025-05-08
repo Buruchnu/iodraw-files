@@ -706,6 +706,9 @@
         <mxCell id="4zzekxrWqwIMP6JOpFTy-1" value="7 应用层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;flipV=0;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="220" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4zzekxrWqwIMP6JOpFTy-10" value="2 数据链路层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="4zzekxrWqwIMP6JOpFTy-9" value="3 运输层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;flipV=0;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="270" width="120" height="40" as="geometry" />
         </mxCell>
