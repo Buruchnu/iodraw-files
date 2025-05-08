@@ -537,7 +537,7 @@
         <mxCell id="CG4RpzW_A8HhgMQRodAI-20" value="模型训练" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CG4RpzW_A8HhgMQRodAI-21" value="流量分类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CG4RpzW_A8HhgMQRodAI-21" value="分类预测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
