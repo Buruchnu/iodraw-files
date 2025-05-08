@@ -744,7 +744,7 @@
         <mxCell id="3BZOD1-wDWsP7hmBGxtg-1" value="应用层（报文）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3BZOD1-wDWsP7hmBGxtg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3BZOD1-wDWsP7hmBGxtg-3" value="传输层（段）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3BZOD1-wDWsP7hmBGxtg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
