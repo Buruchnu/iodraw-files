@@ -560,10 +560,10 @@
         <mxCell id="u6kDcXIR_znuhlVPwCtp-5" value="待分类流量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6kDcXIR_znuhlVPwCtp-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6kDcXIR_znuhlVPwCtp-6" value="预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6kDcXIR_znuhlVPwCtp-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6kDcXIR_znuhlVPwCtp-7" value="分类结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
