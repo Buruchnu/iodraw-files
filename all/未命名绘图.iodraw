@@ -798,7 +798,7 @@
         <mxCell id="3BZOD1-wDWsP7hmBGxtg-20" value="IP头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3BZOD1-wDWsP7hmBGxtg-21" value="IP头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3BZOD1-wDWsP7hmBGxtg-21" value="LLC头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="260" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
