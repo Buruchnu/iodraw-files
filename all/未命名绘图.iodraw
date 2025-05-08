@@ -632,6 +632,9 @@
         <mxCell id="v-7VzoOLCxn6Np4zBtjq-9" value="" style="shape=mxgraph.cisco.routers.gigabit_switch_atm_tag_router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="240" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="v-7VzoOLCxn6Np4zBtjq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="v-7VzoOLCxn6Np4zBtjq-10" target="v-7VzoOLCxn6Np4zBtjq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v-7VzoOLCxn6Np4zBtjq-10" value="" style="shape=mxgraph.cisco.routers.gigabit_switch_atm_tag_router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="480" width="78" height="78" as="geometry" />
         </mxCell>
@@ -663,6 +666,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v-7VzoOLCxn6Np4zBtjq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v-7VzoOLCxn6Np4zBtjq-12" target="v-7VzoOLCxn6Np4zBtjq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-7VzoOLCxn6Np4zBtjq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v-7VzoOLCxn6Np4zBtjq-15" target="v-7VzoOLCxn6Np4zBtjq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-7VzoOLCxn6Np4zBtjq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v-7VzoOLCxn6Np4zBtjq-10" target="v-7VzoOLCxn6Np4zBtjq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
