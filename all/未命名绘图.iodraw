@@ -486,7 +486,7 @@
         <mxCell id="CG4RpzW_A8HhgMQRodAI-2" value="特征提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CG4RpzW_A8HhgMQRodAI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CG4RpzW_A8HhgMQRodAI-3" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CG4RpzW_A8HhgMQRodAI-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
