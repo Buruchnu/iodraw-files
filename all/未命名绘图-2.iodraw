@@ -79,6 +79,9 @@
         <mxCell id="1wVftL2uyuRb-1NolDkm-22" value="随机采取训练集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1wVftL2uyuRb-1NolDkm-23" value="随机采取训练集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
