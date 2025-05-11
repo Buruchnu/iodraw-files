@@ -26,7 +26,7 @@
           <mxGeometry x="-130" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-5" value="特征提取模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-8" value="读取数据集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="330" width="120" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-23" value="测试数据集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xCPhN46E5lU89W1Qmf6R-5" target="xCPhN46E5lU89W1Qmf6R-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,7 +116,7 @@
         <mxCell id="1wVftL2uyuRb-1NolDkm-14" value="搭建CNN_LSTM模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1wVftL2uyuRb-1NolDkm-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1wVftL2uyuRb-1NolDkm-15" value="进行循环训练" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
