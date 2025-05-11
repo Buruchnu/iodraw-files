@@ -115,6 +115,9 @@
         <mxCell id="1wVftL2uyuRb-1NolDkm-35" value="数据预处理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="75" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1wVftL2uyuRb-1NolDkm-36" value="模型训练模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
