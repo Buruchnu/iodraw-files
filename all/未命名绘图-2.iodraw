@@ -94,6 +94,9 @@
         <mxCell id="1wVftL2uyuRb-1NolDkm-25" value="展示结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1wVftL2uyuRb-1NolDkm-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="65" width="880" height="155" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
