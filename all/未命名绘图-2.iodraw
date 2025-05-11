@@ -89,19 +89,16 @@
           <mxGeometry x="375" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wVftL2uyuRb-1NolDkm-22" value="随机采取训练集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-295" y="475" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wVftL2uyuRb-1NolDkm-23" value="选择并调用模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-65" y="475" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wVftL2uyuRb-1NolDkm-24" value="进行流量分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="475" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wVftL2uyuRb-1NolDkm-25" value="展示结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="475" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1wVftL2uyuRb-1NolDkm-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="400" width="830" height="155" as="geometry" />
+          <mxGeometry x="380" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
