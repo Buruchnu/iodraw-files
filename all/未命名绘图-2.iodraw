@@ -13,14 +13,6 @@
         <mxCell id="xCPhN46E5lU89W1Qmf6R-1" value="原始PCAP/PCAPNG数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xCPhN46E5lU89W1Qmf6R-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xCPhN46E5lU89W1Qmf6R-2" target="xCPhN46E5lU89W1Qmf6R-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xCPhN46E5lU89W1Qmf6R-21" value="PCAP转换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xCPhN46E5lU89W1Qmf6R-6" vertex="1" connectable="0">
-          <mxGeometry x="0.05" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xCPhN46E5lU89W1Qmf6R-2" target="xCPhN46E5lU89W1Qmf6R-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -115,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-30" value="训练好的模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xCPhN46E5lU89W1Qmf6R-39" target="xCPhN46E5lU89W1Qmf6R-46" edge="1">
           <mxGeometry relative="1" as="geometry">
