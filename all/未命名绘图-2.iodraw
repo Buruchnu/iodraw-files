@@ -236,42 +236,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q_-zIuN5ID76kZ7JMEbL-1" target="q_-zIuN5ID76kZ7JMEbL-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-1" value="字节序列" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q_-zIuN5ID76kZ7JMEbL-2" target="q_-zIuN5ID76kZ7JMEbL-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-2" value="灰度转换" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-3" value="尺寸调整" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q_-zIuN5ID76kZ7JMEbL-6" target="q_-zIuN5ID76kZ7JMEbL-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-6" value="包大小统计" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q_-zIuN5ID76kZ7JMEbL-7" target="q_-zIuN5ID76kZ7JMEbL-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-7" value="时间间隔统计" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q_-zIuN5ID76kZ7JMEbL-8" target="q_-zIuN5ID76kZ7JMEbL-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-8" value="协议分布" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q_-zIuN5ID76kZ7JMEbL-9" value="TCP标志位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="s-NCkn1go_F5iQlxKRgh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q_-zIuN5ID76kZ7JMEbL-13" target="q_-zIuN5ID76kZ7JMEbL-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
