@@ -35,7 +35,7 @@
           <mxGeometry x="220" y="80" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-10" value="流量图像生成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="155" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="150" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="xCPhN46E5lU89W1Qmf6R-5" target="xCPhN46E5lU89W1Qmf6R-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -47,11 +47,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="370" as="sourcePoint" />
             <mxPoint x="370" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xCPhN46E5lU89W1Qmf6R-20" value="图像生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xCPhN46E5lU89W1Qmf6R-19" vertex="1" connectable="0">
-          <mxGeometry x="-0.0725" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xCPhN46E5lU89W1Qmf6R-23" target="xCPhN46E5lU89W1Qmf6R-39" edge="1">
