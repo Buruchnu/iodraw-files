@@ -97,14 +97,23 @@
         <mxCell id="1wVftL2uyuRb-1NolDkm-22" value="随机采取训练集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1wVftL2uyuRb-1NolDkm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1wVftL2uyuRb-1NolDkm-23" target="1wVftL2uyuRb-1NolDkm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1wVftL2uyuRb-1NolDkm-23" value="选择并调用模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wVftL2uyuRb-1NolDkm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1wVftL2uyuRb-1NolDkm-24" target="1wVftL2uyuRb-1NolDkm-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wVftL2uyuRb-1NolDkm-24" value="进行流量分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wVftL2uyuRb-1NolDkm-25" value="展示结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wVftL2uyuRb-1NolDkm-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
