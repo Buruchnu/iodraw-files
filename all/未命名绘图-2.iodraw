@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-8" value="训练数据集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-9" value="统计特征提取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="80" width="120" height="50" as="geometry" />
@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-25" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xCPhN46E5lU89W1Qmf6R-27" value="CNN/LSTM/CNN-LSTM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="280" width="120" height="60" as="geometry" />
