@@ -120,7 +120,7 @@
         <mxCell id="xCPhN46E5lU89W1Qmf6R-46" value="性能指标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1wVftL2uyuRb-1NolDkm-2" value="除去异常值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1wVftL2uyuRb-1NolDkm-2" value="除去异常流量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1wVftL2uyuRb-1NolDkm-5" value="除去无效流量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
