@@ -955,8 +955,8 @@
         <mxCell id="ve9BlGvfBpPaVXP5pC9c-3" value="设置超参" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ve9BlGvfBpPaVXP5pC9c-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="260" width="80" height="50" as="geometry" />
+        <mxCell id="ve9BlGvfBpPaVXP5pC9c-4" value="超参是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="260" width="126" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
