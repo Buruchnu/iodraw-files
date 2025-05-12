@@ -852,10 +852,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-6" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="270" width="60" height="160" as="geometry" />
+          <mxGeometry x="210" y="270" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-7" value="模型训练模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="290" y="280" width="60" height="140" as="geometry" />
+          <mxGeometry x="210" y="280" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vT4YM9neYSn0Q1mJBN7c-8" target="vT4YM9neYSn0Q1mJBN7c-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vT4YM9neYSn0Q1mJBN7c-8" target="vT4YM9neYSn0Q1mJBN7c-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="270" width="60" height="160" as="geometry" />
@@ -882,16 +888,16 @@
           <mxGeometry x="80" y="540" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-16" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="520" width="40" height="160" as="geometry" />
+          <mxGeometry x="150" y="520" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-17" value="模型选则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="230" y="540" width="40" height="120" as="geometry" />
+          <mxGeometry x="150" y="540" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-18" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="520" width="40" height="160" as="geometry" />
+          <mxGeometry x="290" y="520" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-19" value="模型训练" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="370" y="540" width="40" height="120" as="geometry" />
+          <mxGeometry x="290" y="540" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-22" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="520" width="40" height="160" as="geometry" />
