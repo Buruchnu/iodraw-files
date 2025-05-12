@@ -1136,8 +1136,8 @@
         <mxCell id="2-RttLmYrWWVtDPMIMR5-60" value="传输层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="418" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2-RttLmYrWWVtDPMIMR5-61" value="池化层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="418" width="60" height="30" as="geometry" />
+        <mxCell id="2-RttLmYrWWVtDPMIMR5-61" value="池化层2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="418" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2-RttLmYrWWVtDPMIMR5-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="310" width="80" height="80" as="geometry" />
@@ -1208,7 +1208,7 @@
             <mxPoint x="780.0000000000002" y="336.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-RttLmYrWWVtDPMIMR5-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" target="2-RttLmYrWWVtDPMIMR5-66" parent="1">
+        <mxCell id="2-RttLmYrWWVtDPMIMR5-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" target="2-RttLmYrWWVtDPMIMR5-66" parent="1" source="2-RttLmYrWWVtDPMIMR5-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="436.25" as="targetPoint" />
             <mxPoint x="780.0000000000002" y="416.25" as="sourcePoint" />
