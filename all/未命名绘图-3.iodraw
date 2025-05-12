@@ -828,10 +828,10 @@
           <mxGeometry y="290" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-6" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="240" width="60" height="160" as="geometry" />
+          <mxGeometry x="290" y="270" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-7" value="模型训练模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="290" y="270" width="60" height="140" as="geometry" />
+          <mxGeometry x="290" y="280" width="60" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="528" y="240" width="60" height="160" as="geometry" />
