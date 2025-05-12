@@ -1308,7 +1308,7 @@
           <mxGeometry y="60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="79nJGe7UtHH_1iNO-aWV-10" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=29.071428571428555;rotation=135;" vertex="1" parent="1">
-          <mxGeometry x="730" y="454" width="90" height="100" as="geometry" />
+          <mxGeometry x="629" y="463.5" width="75" height="78.25" as="geometry" />
         </mxCell>
         <mxCell id="79nJGe7UtHH_1iNO-aWV-11" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=30.26;rotation=45;direction=north;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="520" width="100" height="92.7" as="geometry" />
