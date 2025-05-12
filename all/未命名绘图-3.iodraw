@@ -1393,6 +1393,9 @@
         <mxCell id="rAU6Cuf14YNkppg0m9_n-11" value="评估模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-12" value="保存zui" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
