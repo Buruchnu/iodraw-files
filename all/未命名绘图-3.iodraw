@@ -1373,7 +1373,10 @@
           <mxGeometry x="120" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-5" value="进入训练循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-6" value="向前传递" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
