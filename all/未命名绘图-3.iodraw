@@ -911,6 +911,30 @@
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-25" value="结果展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="510" y="540" width="40" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="vT4YM9neYSn0Q1mJBN7c-38" target="vT4YM9neYSn0Q1mJBN7c-40" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="vT4YM9neYSn0Q1mJBN7c-38" target="vT4YM9neYSn0Q1mJBN7c-42" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-38" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="270" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-39" value="流量分类模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-40" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="520" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-41" value="流量识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="590" y="540" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-42" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="520" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-43" value="结果展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="730" y="540" width="40" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
