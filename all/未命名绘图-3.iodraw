@@ -1381,6 +1381,9 @@
         <mxCell id="rAU6Cuf14YNkppg0m9_n-7" value="计算损失函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-8" value="计算损失函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
