@@ -1378,14 +1378,26 @@
         <mxCell id="rAU6Cuf14YNkppg0m9_n-3" value="传入训练集和验证集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAU6Cuf14YNkppg0m9_n-4" target="rAU6Cuf14YNkppg0m9_n-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-4" value="配置优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAU6Cuf14YNkppg0m9_n-5" target="rAU6Cuf14YNkppg0m9_n-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-5" value="进入训练循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAU6Cuf14YNkppg0m9_n-6" target="rAU6Cuf14YNkppg0m9_n-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-6" value="向前传递移动数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAU6Cuf14YNkppg0m9_n-7" target="rAU6Cuf14YNkppg0m9_n-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-7" value="计算损失函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
