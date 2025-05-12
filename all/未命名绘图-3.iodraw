@@ -1402,29 +1402,32 @@
         <mxCell id="rAU6Cuf14YNkppg0m9_n-7" value="计算损失函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rAU6Cuf14YNkppg0m9_n-8" target="rAU6Cuf14YNkppg0m9_n-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-8" value="反向传递计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-9" value="是否达到训练要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="220" width="160" height="50" as="geometry" />
+          <mxGeometry x="350" y="225" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-10" value="计算本论次准确率与损失函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="505" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-11" value="评估模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="435" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-12" value="保存最优模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="365" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-13" value="输出本轮次模型准确率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="295" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-14" value="输出损失函数和准确率曲线图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="165" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="95" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
