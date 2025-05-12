@@ -1372,6 +1372,9 @@
         <mxCell id="rAU6Cuf14YNkppg0m9_n-4" value="配置优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-5" value="配置优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
