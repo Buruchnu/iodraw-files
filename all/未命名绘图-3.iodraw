@@ -932,7 +932,7 @@
         <mxCell id="vT4YM9neYSn0Q1mJBN7c-42" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="520" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="vT4YM9neYSn0Q1mJBN7c-43" value="结果展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="vT4YM9neYSn0Q1mJBN7c-43" value="可视化结果展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="730" y="540" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
