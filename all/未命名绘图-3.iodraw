@@ -996,8 +996,8 @@
         <mxCell id="ve9BlGvfBpPaVXP5pC9c-16" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ve9BlGvfBpPaVXP5pC9c-19" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="ve9BlGvfBpPaVXP5pC9c-19" value="预处理后的数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
