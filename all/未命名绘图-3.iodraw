@@ -1133,8 +1133,8 @@
         <mxCell id="2-RttLmYrWWVtDPMIMR5-57" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="585" y="350" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="2-RttLmYrWWVtDPMIMR5-60" value="传输层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="418" width="60" height="30" as="geometry" />
+        <mxCell id="2-RttLmYrWWVtDPMIMR5-60" value="传输层2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="418" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2-RttLmYrWWVtDPMIMR5-61" value="池化层2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="705" y="418" width="70" height="30" as="geometry" />
