@@ -1074,6 +1074,21 @@
         <mxCell id="2-RttLmYrWWVtDPMIMR5-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="165" y="320" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="2-RttLmYrWWVtDPMIMR5-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="304" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-RttLmYrWWVtDPMIMR5-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="314" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-RttLmYrWWVtDPMIMR5-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="324" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-RttLmYrWWVtDPMIMR5-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="334" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-RttLmYrWWVtDPMIMR5-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="349" y="320" width="10" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
