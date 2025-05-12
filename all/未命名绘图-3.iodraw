@@ -1360,11 +1360,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rAU6Cuf14YNkppg0m9_n-1" target="rAU6Cuf14YNkppg0m9_n-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="30" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAU6Cuf14YNkppg0m9_n-2" target="rAU6Cuf14YNkppg0m9_n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-2" value="导入模型框架以及全局配置参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAU6Cuf14YNkppg0m9_n-3" target="rAU6Cuf14YNkppg0m9_n-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rAU6Cuf14YNkppg0m9_n-3" value="传入训练集和验证集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
@@ -1402,7 +1411,7 @@
         <mxCell id="rAU6Cuf14YNkppg0m9_n-14" value="输出损失函数和准确率曲线图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rAU6Cuf14YNkppg0m9_n-15" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="95" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
