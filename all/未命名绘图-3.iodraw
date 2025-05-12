@@ -1369,7 +1369,7 @@
         <mxCell id="rAU6Cuf14YNkppg0m9_n-3" value="传入训练集和验证集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rAU6Cuf14YNkppg0m9_n-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-4" value="配置优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
