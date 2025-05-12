@@ -1399,6 +1399,9 @@
         <mxCell id="rAU6Cuf14YNkppg0m9_n-13" value="输出本轮次模型准确率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="295" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rAU6Cuf14YNkppg0m9_n-14" value="输出损失函数和准确率曲线图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
