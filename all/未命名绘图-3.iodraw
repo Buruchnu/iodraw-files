@@ -1037,13 +1037,19 @@
           <mxGeometry x="294" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dm9BeQYZM7KpEDwaasBu-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="320" width="56" height="30" as="geometry" />
+          <mxGeometry x="326" y="390" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dm9BeQYZM7KpEDwaasBu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dm9BeQYZM7KpEDwaasBu-18" target="dm9BeQYZM7KpEDwaasBu-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dm9BeQYZM7KpEDwaasBu-18" value="预处理后的数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="147" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dm9BeQYZM7KpEDwaasBu-19" value="可视化处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dm9BeQYZM7KpEDwaasBu-20" value="可视化处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="290" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
